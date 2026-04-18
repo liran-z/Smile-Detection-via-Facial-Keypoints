@@ -1,4 +1,3 @@
-# Smile-Detection-Function
 # Smile Detection via Facial Keypoints
 
 A machine learning project that detects smiles using only facial landmark coordinates —
